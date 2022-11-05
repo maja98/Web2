@@ -1,0 +1,19 @@
+html 
+     head
+        title Home
+        .content
+            if username
+                h1 Welcome #{username}
+            else 
+                h1 Welcome
+            ul             
+                if username
+                    li: form(action="/logout", method="get")
+                        input(type="submit", value="Logout ")
+                    li: a(href='/login', title='Comment') Comment
+                else
+                    li: a(href='/login', title='Sign up') Log in / Sign up 
+                
+
+            
+            

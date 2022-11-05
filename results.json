@@ -1,0 +1,122 @@
+[
+    {
+        "id" : 1,
+        "first_club" : "Slaven Belupo",
+        "second_club" : "Rijeka",
+        "date" : "23.10.2022.",
+        "time" : "17:10",
+        "result_first_club" : "2",
+        "result_second_club" : "1",
+        "kolo" : 14
+    },
+    {
+        "id" : 2,
+        "first_club" : "Istra 1961",
+        "second_club" : "Šibenik",
+        "date" : "23.10.2022.",
+        "time" : "15:00",
+        "result_first_club" : "0",
+        "result_second_club" : "0",
+        "kolo" : 14
+    },
+    {
+        "id" : 3,
+        "first_club" : "Varaždin",
+        "second_club" : "Osijek",
+        "date" : "22.10.2022.",
+        "time" : "17:10",
+        "result_first_club" : "4",
+        "result_second_club" : "1",
+        "kolo" : 14
+    },
+    {
+        "id" : 4,
+        "first_club" : "Lokomotiva",
+        "second_club" : "Gorica",
+        "date" : "22.10.2022.",
+        "time" : "15:00",
+        "result_first_club" : "2",
+        "result_second_club" : "1",
+        "kolo" : 14
+    },
+    {
+        "id" : 5,
+        "first_club" : "Hajduk",
+        "second_club" : "Dinamo",
+        "date" : "21.10.2022.",
+        "time" : "18:00",
+        "result_first_club" : "1",
+        "result_second_club" : "1",
+        "kolo" : 14
+    },
+    {
+        "id" : 6,
+        "first_club" : "Osijek",
+        "second_club" : "Dinamo",
+        "date" : "29.10.2022.",
+        "time" : "17:30",
+        "result_first_club" : "1",
+        "result_second_club" : "0",
+        "kolo" : 15
+    },
+    {
+        "id" : 7,
+        "first_club" : "Rijeka",
+        "second_club" : "Istra 1961",
+        "date" : "29.10.2022.",
+        "time" : "15:00",
+        "result_first_club" : "0",
+        "result_second_club" : "1",
+        "kolo" : 15
+    },
+    {
+        "id" : 8,
+        "first_club" : "Šibenik",
+        "second_club" : "Varaždin",
+        "date" : "28.10.2022.",
+        "time" : "18:00",
+        "result_first_club" : "1",
+        "result_second_club" : "2",
+        "kolo" : 15
+    },
+    {
+        "id" : 9,
+        "first_club" : "Istra 1961",
+        "second_club" : "Gorica",
+        "date" : "04.11.2022.",
+        "time" : "18:00",
+        "result_first_club" : "",
+        "result_second_club" : "",
+        "kolo" : 16
+    },
+    {
+        "id" : 10,
+        "first_club" : "Slaven Belupo",
+        "second_club" : "Lokomotiva",
+        "date" : "05.11.2022.",
+        "time" : "15:00",
+        "result_first_club" : "",
+        "result_second_club" : "",
+        "kolo" : 16
+    },
+    {
+        "id" : 11,
+        "first_club" : "Hajduk",
+        "second_club" : "Osijek",
+        "date" : "05.11.2022.",
+        "time" : "17:30",
+        "result_first_club" : "",
+        "result_second_club" : "",
+        "kolo" : 16
+    },
+    {
+        "id" : 12,
+        "first_club" : "Lokomotiva",
+        "second_club" : "Istra 1961",
+        "date" : "12.11.2022.",
+        "time" : "15:00",
+        "result_first_club" : "",
+        "result_second_club" : "",
+        "kolo" : 17
+    }  
+]
